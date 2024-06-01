@@ -34,24 +34,23 @@
 
 
 
-<h2> Connect with me </h2>
-<p>My LinkedIn:</p>
-<a href = '[https://www.linkedin.com/in/aditya-deshmukh-561a371a8](https://www.linkedin.com/in/andrew-krasuski/)'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<p>My Portfolio Website:</p>
-<a href = 'https://www.andrewkrasuski.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<h2>Connect with Me</h2>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <p style="margin: 0; padding-right: 10px;">My LinkedIn:</p>
+    <a href="https://www.linkedin.com/in/andrew-krasuski/" style="text-decoration: none;">
+        <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"/>
+    </a>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <p style="margin: 0; padding-right: 10px;">My Portfolio Website:</p>
+    <a href="https://www.andrewkrasuski.com" style="text-decoration: none;">
+        <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" alt="Portfolio"/>
+    </a>
+</div>
 
 <br>
-<br>
-  <br>
-  
-
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew5701&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-
-<br>
-
 
 -----
 
