@@ -1,11 +1,10 @@
 
 
-<h1> Hello Developers;! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello Developers; ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=andrew5701.andrew5701)
 [![Github](https://img.shields.io/github/followers/andrew5701?label=Follow&style=social)](https://github.com/andrew5701)
 
 <div size='20px'> Hi! My name is Andrew. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -48,7 +47,6 @@
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew5701&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
 <br>
