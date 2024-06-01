@@ -21,6 +21,8 @@
 
 <h2> Skills</h2>
 <a href= https://github.com/andrew5701?tab=repositories&q=&type=&language=python&sort= > <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/andrew5701?tab=repositories&q=&type=&language=java&sort= > <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/andrew5701?tab=repositories&q=&type=&language=node.js&sort= > <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/node.js.svg'> </a>
 <a href= https://github.com/andrew5701?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/andrew5701?tab=repositories&q=&type=&language=javascript&sort= > <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/andrew5701?tab=repositories&q=&type=&language=scikit&sort= > <img width ='64px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
