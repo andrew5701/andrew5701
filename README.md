@@ -16,7 +16,7 @@
 
 - 🎓 I'm a Software Engineering Graduate student at Central Connecticut State University
   
-- 🧳 I’ve had three relevant work experiences. Three in software engineering and one in I.T.
+- 🧳 I’ve had three relevant work experiences. Three in Software Engineering and one in I.T.
   
 
 <h2> Skills</h2>
